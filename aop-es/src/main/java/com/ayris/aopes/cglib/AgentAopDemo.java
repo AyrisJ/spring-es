@@ -1,3 +1,5 @@
+package com.ayris.aopes.cglib;
+
 import org.springframework.aop.framework.ProxyFactory;
 
 public class AgentAopDemo {

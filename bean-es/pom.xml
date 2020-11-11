@@ -9,6 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>aop-es</artifactId>
+    <artifactId>bean-es</artifactId>
+
 
 </project>
