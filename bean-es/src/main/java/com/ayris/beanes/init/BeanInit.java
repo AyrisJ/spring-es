@@ -15,7 +15,7 @@ public class BeanInit implements InitializingBean, DisposableBean {
 
     @PostConstruct
     public void afterInit() {
-        logger.info("{}PostConstruct注解，初始化后处理:{}", SymbolConstant.prefix_tag,this);
+        logger.info("{}PostConstruct注解，初始化后处理:{}", SymbolConstant.prefix_tag, this);
     }
 
     @PreDestroy

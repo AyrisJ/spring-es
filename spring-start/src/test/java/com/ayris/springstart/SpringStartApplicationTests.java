@@ -1,10 +1,10 @@
-package com.ayris.springes;
+package com.ayris.springstart;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringesApplicationTests {
+class SpringStartApplicationTests {
 
     @Test
     void contextLoads() {
